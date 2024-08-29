@@ -1,7 +1,7 @@
-- Hello, I'm HB_the_Pencil! (they wouldn't let me put underscores in my username so it's hyphens instead :P)
+- Hello, I'm Henry Barcalow! I program on Khan Academy and GitHub under the username of HB_the_Pencil.
 - Christian and proud of it! Also the oldest child in my family >:D
 - Anyways, I'm a sort-of HTML and JS coder (mostly PJS) and I love helping bugtest JS games.
-- Now I'm learning Python too!
+- Now I'm learning Python in a software development course at school!
 - Can't wait to see what GitHub has to offer!
 
 <!---
