@@ -2,9 +2,9 @@ Hello, I'm Henry Barcalow! I program on Khan Academy and GitHub under the userna
 
 Some fun facts about me...
 - Christian and proud of it! I try to live out my faith as much as possible.
-- I'm the oldest child in my family :3
 - I know some HTML/JS and got my start in ProcessingJS on Khan Academy.
-- Now I'm learning Python in a software development course at school. I just got PCEP certified!
+- I earned PCEP and UCUP certifications in high school. Now I'm at Indiana University studying video game design.
+- Eventually, I want to start a game design company focused on making accessible video games!
 
 have a good day :D
 
